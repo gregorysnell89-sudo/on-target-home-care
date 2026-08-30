@@ -1,0 +1,8 @@
+{
+  "name": "ontarget-home-care-site",
+  "version": "1.0.0",
+  "description": "Static website for On Target Home Care - deployable to Netlify",
+  "scripts": {
+    "deploy": "netlify deploy --prod"
+  }
+}
